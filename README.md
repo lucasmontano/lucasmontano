@@ -8,7 +8,7 @@
 
 ### What I'm working on 👨‍💻
 
-You can watch me building LIVE on [Twitch](https://www.twitch.tv/lucas_montano) <br>
+You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucas_montano) <br>
 
 🚀 Reinventing Communication between Employer and Non-Desk Employees at [Speakap](https://www.speakap.com/) <br>
 
