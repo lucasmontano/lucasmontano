@@ -8,8 +8,7 @@
 
 ### What I'm working on 👨‍💻
 
-📱 Building a Duolingo for Tech <br>
-You can watch me building LIVE on [Twitch](https://www.twitch.tv/lucas_montano) and contribute on [Github](https://github.com/lucasmontano/learn-tech) <br>
+You can watch me building LIVE on [Twitch](https://www.twitch.tv/lucas_montano) <br>
 
 🚀 Reinventing Communication between Employer and Non-Desk Employees at [Speakap](https://www.speakap.com/) <br>
 
