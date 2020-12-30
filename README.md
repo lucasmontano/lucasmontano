@@ -2,7 +2,6 @@
 
 🍿 Content Creator at [Youtube](https://www.youtube.com/lucasmontano) <br>
 👾 Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
-💻 Android Engineer at [@SpeakapBV](https://www.speakap.com/) <br>
 🇧🇷 Born in Porto Alegre, Brazil <br>
 🇳🇱 Living in Amsterdam, The Netherlands
 
