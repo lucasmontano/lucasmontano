@@ -3,7 +3,7 @@
 🍿 Content Creator at [Youtube](https://www.youtube.com/lucasmontano) <br>
 👾 Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
 🇧🇷 Born in Porto Alegre, Brazil <br>
-🇳🇱 Living in Amsterdam, The Netherlands
+🇳🇱 Living in Amsterdam, The Netherlands <br>
 🚀 Senior Android Engineer at [Disney+](https://www.disneyplus.com/) <br>
 
 ### Find me elsewhere 🌎
