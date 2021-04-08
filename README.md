@@ -4,12 +4,7 @@
 👾 Streamer at [Twitch](https://www.twitch.tv/lucas_montano) <br>
 🇧🇷 Born in Porto Alegre, Brazil <br>
 🇳🇱 Living in Amsterdam, The Netherlands
-
-### What I'm working on 👨‍💻
-
-You can watch me coding LIVE on [Twitch](https://www.twitch.tv/lucas_montano) <br>
-
-🚀 Reinventing Communication between Employer and Non-Desk Employees at [Speakap](https://www.speakap.com/) <br>
+🚀 Senior Android Engineer at [Disney+](https://www.disneyplus.com/) <br>
 
 ### Find me elsewhere 🌎
 
